@@ -38,7 +38,7 @@ O aplicativo é iniciado através do bloco `if __name__ == "__main__":`, garanti
 - 🖌️ **Edição de Imagem**: Redimensionar, cortar, ajustar cores, etc.  
 - 🎨 **Filtros e Efeitos**: Aplicação de filtros pré-definidos.  
 - 🔍 **Zoom e Navegação**: Ferramentas para visualização detalhada.  
-- 📂 **Suporte a Formatos**: PNG, JPEG, BMP, TIFF, etc.  
+- 📂 **Suporte a Formatos**: PNG, JPEG, BMP, etc.  
 
 ---
 
